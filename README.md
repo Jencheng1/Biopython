@@ -50,3 +50,5 @@ This repository was created as part of Coursera’s **Access Bioinformatics Data
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) file for details.
+
+**Certificate URL**: https://coursera.org/share/a47fb1be28f0f3e1312776a7bf399af3
